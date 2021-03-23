@@ -1,0 +1,78 @@
+2020/11/09 10:42:46.137 [ERROR] http-nio-8084-exec-24 (LoginController.java) - hih
+2020/11/09 10:43:06.784 [ERROR] http-nio-8084-exec-25 (LoginController.java) - hih
+2020/11/09 11:19:00.318 [ERROR] http-nio-8084-exec-3 (LoginController.java) - hih
+2020/11/09 11:19:08.005 [ERROR] http-nio-8084-exec-1 (UpdateRommController.java) - empty String
+2020/11/09 11:22:05.367 [ERROR] http-nio-8084-exec-15 (LoginController.java) - hih
+2020/11/09 11:22:12.405 [ERROR] http-nio-8084-exec-13 (UpdateRommController.java) - empty String
+2020/11/09 11:32:57.683 [ERROR] http-nio-8084-exec-35 (LoginController.java) - hih
+2020/11/09 11:33:03.812 [ERROR] http-nio-8084-exec-37 (LoginController.java) - hih
+2020/11/09 11:40:36.951 [ERROR] http-nio-8084-exec-32 (LoginController.java) - hih
+2020/11/09 11:44:54.012 [ERROR] http-nio-8084-exec-32 (LoginController.java) - hih
+2020/11/09 11:59:42.477 [ERROR] http-nio-8084-exec-31 (MainController.java) - 
+2020/11/09 12:14:31.931 [ERROR] http-nio-8084-exec-32 (MainController.java) - 
+2020/11/09 12:24:41.407 [ERROR] http-nio-8084-exec-46 (LoginController.java) - hih
+2020/11/09 13:30:37.485 [ERROR] http-nio-8084-exec-42 (LoginController.java) - hih
+2020/11/09 13:30:49.597 [ERROR] http-nio-8084-exec-40 (LoginController.java) - hih
+2020/11/09 13:37:05.749 [ERROR] http-nio-8084-exec-48 (LoginController.java) - hih
+2020/11/09 13:45:16.025 [ERROR] http-nio-8084-exec-63 (LoginController.java) - hih
+2020/11/09 13:49:41.639 [ERROR] http-nio-8084-exec-74 (LoginController.java) - hih
+2020/11/09 13:49:44.835 [ERROR] http-nio-8084-exec-86 (LoginController.java) - hih
+2020/11/09 14:58:28.982 [ERROR] http-nio-8084-exec-6 (LoginController.java) - hih
+2020/11/09 14:58:32.988 [ERROR] http-nio-8084-exec-10 (LoginController.java) - hih
+2020/11/09 14:58:45.601 [ERROR] http-nio-8084-exec-4 (LoginController.java) - hih
+2020/11/09 14:59:00.458 [ERROR] http-nio-8084-exec-8 (LoginController.java) - hih
+2020/11/10 22:41:28.101 [ERROR] http-nio-8084-exec-8 (LoginController.java) - hih
+2020/11/10 22:41:48.897 [ERROR] http-nio-8084-exec-9 (BookingController.java) - empty String
+2020/11/11 07:03:14.094 [ERROR] http-nio-8084-exec-5 (LoginController.java) - hih
+2020/11/11 07:04:44.916 [ERROR] http-nio-8084-exec-9 (BookingController.java) - 
+2020/11/11 07:07:13.939 [ERROR] http-nio-8084-exec-3 (LoginController.java) - hih
+2020/11/12 23:00:01.861 [ERROR] http-nio-8084-exec-9 (LoginController.java) - hih
+2020/11/12 23:02:07.733 [ERROR] http-nio-8084-exec-8 (BookingController.java) - 
+2020/11/12 23:02:09.229 [ERROR] http-nio-8084-exec-9 (BookingController.java) - 
+2020/11/12 23:02:16.770 [ERROR] http-nio-8084-exec-3 (LoginController.java) - hih
+2020/11/14 07:35:14.758 [ERROR] http-nio-8084-exec-12 (BookingController.java) - Cannot insert the value NULL into column 'email', table 'hotel.dbo.tblOders'; column does not allow nulls. INSERT fails.
+2020/11/14 07:35:16.929 [ERROR] http-nio-8084-exec-19 (BookingController.java) - Cannot insert the value NULL into column 'email', table 'hotel.dbo.tblOders'; column does not allow nulls. INSERT fails.
+2020/11/14 07:35:26.594 [ERROR] http-nio-8084-exec-13 (LogoutController.java) - removeAttribute: Session already invalidated
+2020/11/14 07:36:57.242 [ERROR] http-nio-8084-exec-20 (LogoutController.java) - removeAttribute: Session already invalidated
+2020/11/14 07:37:02.081 [ERROR] http-nio-8084-exec-14 (LoginController.java) - hih
+2020/11/14 07:37:04.640 [ERROR] http-nio-8084-exec-15 (LogoutController.java) - removeAttribute: Session already invalidated
+2020/11/14 07:37:11.030 [ERROR] http-nio-8084-exec-18 (LoginController.java) - hih
+2021/01/07 23:05:02.911 [ERROR] http-nio-8084-exec-153 (LoginController.java) - hih
+2021/01/07 23:05:05.385 [ERROR] http-nio-8084-exec-154 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/07 23:05:16.583 [ERROR] http-nio-8084-exec-150 (LoginController.java) - hih
+2021/01/08 13:22:49.332 [ERROR] http-nio-8084-exec-44 (LoginController.java) - hih
+2021/01/08 13:22:50.797 [ERROR] http-nio-8084-exec-51 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/08 13:22:54.159 [ERROR] http-nio-8084-exec-52 (LoginController.java) - hih
+2021/01/08 13:23:11.217 [ERROR] http-nio-8084-exec-47 (LoginController.java) - hih
+2021/01/08 13:23:47.954 [ERROR] http-nio-8084-exec-48 (LoginController.java) - hih
+2021/01/08 13:24:10.298 [ERROR] http-nio-8084-exec-50 (LoginController.java) - hih
+2021/01/08 13:24:11.549 [ERROR] http-nio-8084-exec-51 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/08 17:05:24.995 [ERROR] http-nio-8084-exec-178 (LoginController.java) - hih
+2021/01/08 17:05:27.309 [ERROR] http-nio-8084-exec-179 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/08 17:05:33.838 [ERROR] http-nio-8084-exec-181 (LoginController.java) - hih
+2021/01/08 17:05:35.899 [ERROR] http-nio-8084-exec-180 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/09 17:11:34.084 [ERROR] http-nio-8084-exec-79 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/09 17:11:38.351 [ERROR] http-nio-8084-exec-82 (LoginController.java) - hih
+2021/01/17 22:50:58.984 [ERROR] http-nio-8084-exec-116 (LoginController.java) - hih
+2021/01/17 22:51:00.720 [ERROR] http-nio-8084-exec-107 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/17 22:51:05.388 [ERROR] http-nio-8084-exec-118 (LoginController.java) - hih
+2021/01/17 22:51:06.684 [ERROR] http-nio-8084-exec-119 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/17 22:51:13.158 [ERROR] http-nio-8084-exec-121 (LoginController.java) - hih
+2021/01/19 02:56:28.826 [ERROR] http-nio-8084-exec-91 (LoginController.java) - hih
+2021/01/19 02:56:31.797 [ERROR] http-nio-8084-exec-100 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/19 02:56:37.740 [ERROR] http-nio-8084-exec-104 (LoginController.java) - hih
+2021/01/19 02:56:39.670 [ERROR] http-nio-8084-exec-103 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/01/27 09:54:17.162 [ERROR] http-nio-8084-exec-13 (CreateController.java) - The statement did not return a result set.
+2021/03/02 15:37:04.072 [ERROR] http-nio-8084-exec-170 (LoginController.java) - hih
+2021/03/23 23:36:19.290 [ERROR] http-nio-8084-exec-8 (LoginController.java) - hih
+2021/03/23 23:36:21.147 [ERROR] http-nio-8084-exec-9 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/03/23 23:36:28.701 [ERROR] http-nio-8084-exec-2 (LoginController.java) - hih
+2021/03/23 23:36:30.188 [ERROR] http-nio-8084-exec-3 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/03/23 23:36:43.358 [ERROR] http-nio-8084-exec-6 (LoginController.java) - hih
+2021/03/23 23:36:44.503 [ERROR] http-nio-8084-exec-7 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/03/23 23:37:08.594 [ERROR] http-nio-8084-exec-10 (LoginController.java) - hih
+2021/03/23 23:37:12.755 [ERROR] http-nio-8084-exec-1 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/03/23 23:37:31.362 [ERROR] http-nio-8084-exec-4 (LoginController.java) - hih
+2021/03/23 23:37:34.013 [ERROR] http-nio-8084-exec-5 (LogoutController.java) - removeAttribute: Session already invalidated
+2021/03/23 23:51:12.222 [ERROR] http-nio-8084-exec-10 (BookingController.java) - 
+2021/03/23 23:51:15.099 [ERROR] http-nio-8084-exec-3 (LogoutController.java) - removeAttribute: Session already invalidated
